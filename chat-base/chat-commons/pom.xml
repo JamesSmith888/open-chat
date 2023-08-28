@@ -6,7 +6,6 @@
         <groupId>org.jim</groupId>
         <artifactId>open-chat</artifactId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.jim</groupId>
     <artifactId>chat-commons</artifactId>

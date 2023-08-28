@@ -1,5 +1,6 @@
 package com.jim.openchatserver.entity;
 
+import com.jim.chatcommons.enums.Gender;
 import jakarta.persistence.Entity;
 import lombok.Getter;
 import lombok.Setter;
